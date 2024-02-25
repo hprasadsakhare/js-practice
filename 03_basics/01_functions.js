@@ -9,10 +9,11 @@ function saymyName(){
 
 function addTwoNumbers(num1,num2){
     //console.log(num1 + num2);
-    let result = num1 + num2;
-    return result
+   // let result = num1 + num2;
+   // return result
+   return num1 + num2
 }
 
 const result = addTwoNumbers(4,5)
 console.log("Result : " , result);
-//addTwoNumbers(5,4)
+//addTwoNumbers(5,4)  
