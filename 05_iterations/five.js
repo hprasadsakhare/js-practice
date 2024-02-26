@@ -1,21 +1,21 @@
 const coding = ["js","ruby","java","python","rust",]
 
-//coding.forEach(function(value){
-//   console.log(value);
-// })
+coding.forEach(function(value){
+   console.log(value);
+ })
 
-//coding.forEach((item) =>{
-//    console.log(item);
-//})
+coding.forEach((item) =>{
+    console.log(item);
+f})
 
-//function printMe(item){
-//    console.log(item);
-//}
-//coding.forEach(printMe)
+function printMe(item){
+    console.log(item);
+}
+coding.forEach(printMe)
 
-//coding.forEach((item, index, arr) => {
-//    console.log(item, index, arr);
-//})
+coding.forEach((item, index, arr) => {
+    console.log(item, index, arr);
+})
 
 
 const myCoding = [
